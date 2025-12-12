@@ -1,0 +1,53 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+ <main>
+     <h1>Video Compilation Page</h1>
+     <p>Explore this curated collection of video compilations on various topics.</p>
+     <section>
+         <h2>Nature wonders</h2>
+         <p>Enjoy breathtaking views and facts about nature.</p>
+          <iframe src="https://www.youtube.com/embed/BYfZBP3t9oA"
+          title="Nature wonders compilation"
+          width="560"
+          height="315"
+          allowfullscreen>
+          </iframe>
+          </section>
+
+          <section>
+              <h2>Science Explained</h2>
+              <p>Learn interesting science concepts through visual stories.</p>
+              <iframe src="https://www.youtube.com/embed/1fNyrLzbyfA"
+              title="Science compilation"
+              width="560"
+              height="315"
+              allowfullscreen>
+              </iframe>
+              </section>
+
+              <section>
+                  <h2>Fun Facts Series</h2>
+                  <p>Watch short videos packed with fun and surprising facts.</p>
+                  <iframe src="https://www.youtube.com/embed/O96fE1E-rf8"
+                  title="Fun facts compilation"
+                  width="560"
+                  height="315"
+                  allowfullscreen>
+                  </iframe>
+                  </section>
+                  </main>
+</body>
+
+</html>
+
+** end of index.html **
+
